@@ -1,0 +1,7 @@
+---
+train: data_file\Universeum\images\train
+val: data_file\Universeum\images\validation
+
+nc: 28
+
+names: ["crimson-rumped toucanet","scarlet ibis","white ibis","sunbittern","toco toucan","yellow-hooded blackbird","green jay","brazilian tanager","blue-necked tanager","cod","lemon damsel","redtoothed triggerfish","foxface","goldbelly damsel","stingray","clown anemonefish","ethiopian mountain viper","inland taipan","green and black poison baby frog","silver moony","spotted unicornfish","blue eyed anthias","indian sail-fin surgeonfish","giant asian praying mantis","semicircle angelfish", "gila monster","king cobra","yellowbanded pois,"yellow-hooded blackbird","green jay","brazilian tanager","blue-necked tanager","cod""lemon damsel","redtoothed triggerfish","foxface","goldbelly damsel","stingray","clown anemonefish","ethiopian mountain viper","inland taipan","green and black poison baby frog","silver moony","spotted unicornfish","blue eyed anthias","indian sail-fin surgeonfish","giant asian praying mantis","semicircle angelfish", "gila monster""king cobra","yellowbanded poison dart frog"]

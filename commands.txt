@@ -1,0 +1,1 @@
+python train.py --img 1024 --batch 8 --epochs 2 --data universeum.yaml --cfg models/yolov5s.yaml --name uni --weights yolov5_models/yolov5s.pt
